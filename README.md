@@ -19,8 +19,6 @@ click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/vi
 
 # 2. Customer sales across 4 regions
 
-### Status: on-going
-
 ### Overview of this project:closed_book:
 This is a guided project. The questions/objectives were prepared in author's youtube video.
 
