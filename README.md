@@ -15,6 +15,8 @@ Dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/aryanjuyal/
 ### Dashboard
 click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/viz/ResortsinNorthAmerica/Dashboard1) to view dashboard in Tableau Public
 
+![Dashboard 1](https://user-images.githubusercontent.com/111835474/209785627-a63c02b5-3fe0-4f2d-b45a-de4e7549502b.png)
+
 # 2. Customer sales across 4 regions
 
 ### Status: on-going
@@ -34,7 +36,7 @@ Dataset was pulled from [here](https://github.com/stanley-george-joseph/Customer
 
 ### Key takeaways:pushpin:
 
-- The sales in southern region outperformed the other 3 regions with 38.37% sales.
+- The sales in southern region outperformed the other 3 regions with 38.37% in sales.
 - December 2020 has recorded the highest number of sales of RM57,666,990 followed by April 2021 sitting at RM36,698,561.
 - Texas(TX) and California(CA) are the top 2 highest ranking sales recorded in the states.
 - Mobiles & tablets' revenue is higher in female than male.
