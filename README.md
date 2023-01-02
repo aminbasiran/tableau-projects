@@ -57,11 +57,12 @@ Dataset was taken from Kaggle. You can get the raw csv file from [here](). This 
 ### Key takeaways:pushpin:
 
 - The total global sales for PS2 alone is over a billion.
-- PS2 sales in north america contributed the most in the global sales and outperformed their competitors in North America with 193.4 millions.
+- PS2 sales from other regions contributed the most in the global sales and outperformed their competitors with 193.4 millions.
 - Action genre is the most popular game's genre as it recorded the highest global sales of 1.75 billion throughout.
 
 ### Dashboard
 click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/viz/Videogamesdashboard_16726514157620/Dashboard1?publish=yes) to view dashboard in Tableau Public
 
-![Dashboard 1]()
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/111835474/210242991-13eafb96-256f-465d-bc4a-ae4bca7620db.png)
+
 
