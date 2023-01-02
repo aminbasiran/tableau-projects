@@ -44,3 +44,24 @@ click [here](https://public.tableau.com/authoring/Customersalesanalysis_16722077
 
 ![Dashboard 1](https://user-images.githubusercontent.com/111835474/209771027-e78c7fdc-1fc2-4236-b5d3-a684a818279d.png)
 
+# 2. Video games sales
+
+### About dataset
+Dataset was taken from Kaggle. You can get the raw csv file from [here](). This data has 16599 records of 11 columns. Missing values were found in 2 columns. They were imputed by replacing them with the value of the highest mode in each affected column. No duplicate values were found in this dataset.
+
+### Objectives
+1. What is the global sales of video games by platform?
+2. What is the top 10 highest sales of video games in each region by platform?
+3. what genre has the highest sales?
+
+### Key takeaways:pushpin:
+
+- The total global sales for PS2 alone is over a billion.
+- PS2 sales in north america contributed the most in the global sales and outperformed their competitors in North America with 193.4 millions.
+- Action genre is the most popular game's genre as it recorded the highest global sales of 1.75 billion throughout.
+
+### Dashboard
+click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/viz/Videogamesdashboard_16726514157620/Dashboard1?publish=yes) to view dashboard in Tableau Public
+
+![Dashboard 1]()
+
