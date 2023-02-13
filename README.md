@@ -111,6 +111,23 @@ click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/vi
 
 ![Dashboard 1 (2)](https://user-images.githubusercontent.com/111835474/218434476-052a0391-0535-4f33-94d8-1b240df266fb.png)
 
+# 6. IBM HR analysis
+
+### Brief:closed_book:
+Dataset was taken from Kaggle.
+
+### Objectives
+
+
+### Key takeaways:pushpin:
+
+
+### Dashboard
+click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/viz/IBMHRDashboard_16763087743770/Dashboard1?publish=yes) to view dashboard in Tableau Public
+
+![Dashboard 1 (3)](https://user-images.githubusercontent.com/111835474/218528150-3a17a672-4745-4ff2-bf61-292b73ab4782.png)
+
+
 
 
 
