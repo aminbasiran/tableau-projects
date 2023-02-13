@@ -22,7 +22,7 @@ click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/vi
 ### Overview of this project:closed_book:
 This is a guided project. The questions/objectives were prepared in author's youtube video.
 
-### About dataset
+### Brief:closed_book:
 Dataset was pulled from [here](https://github.com/stanley-george-joseph/Customer-Analysis-Tableau). This dataset contains over 280,000 records of 36 columns. In this analysis, only several columns are utilized during the process of visualizing them in Tableau namely value, total, age, region, category and month. The "customer since" column was presented with a date that was unrecognizable by excel because of format indifferences during input. Although this column was not part of the analysis, however proper cleaning needed to be done for future uses. The column was formatted into "dmy" instead of "mdy".  
 
 ### Objectives
@@ -46,7 +46,7 @@ click [here](https://public.tableau.com/authoring/Customersalesanalysis_16722077
 
 # 3. Video games sales
 
-### About dataset
+### Brief:closed_book:
 Dataset was taken from Kaggle. You can get the raw csv file from [here](). This data has 16599 records of 11 columns. Missing values were found in 2 columns. They were imputed by replacing them with the value of the highest mode in each affected column. No duplicate values were found in this dataset.
 
 ### Objectives
@@ -67,7 +67,7 @@ click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/vi
 
 # 4. Netflix show analysis
 
-### About dataset
+### Brief:closed_book:
 Dataset was taken from Kaggle. You can get the raw csv file from [here](). This data has 6234 records of 12 columns.
 
 ### Objectives
@@ -88,6 +88,32 @@ Dataset was taken from Kaggle. You can get the raw csv file from [here](). This 
 click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/viz/Netflixdashboard_16762616709070/Dashboard1?publish=yes) to view dashboard in Tableau Public
 
 ![netflix Dashboard](https://user-images.githubusercontent.com/111835474/218372772-2bad6be4-9ef8-458b-b9eb-1da7ceed3758.png)
+
+# 5. Job Salaries analysis
+
+### Brief:closed_book:
+Dataset was taken from Kaggle. You can get the raw csv file from [here](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries). This data has 6234 records of 12 columns. To ensure data quality, we conducted a thorough review of the dataset, checking for missing values, outliers, and inconsistencies in the data. After conducting a comprehensive review of the dataset, only abbreviations from the records were changed for readility and no significant issues or errors were found. Therefore, no data cleaning was required, and the data was deemed suitable for this analysis.
+
+### Objectives
+1. To find what is the average salary in USD by each employment type and experience level.
+2. To find the percentage of total companies by size and location.
+3. To find the average salary per country.
+4. To find the top 10 country most of the employees reside at.
+
+### Key takeaways:pushpin:
+
+- 332 out of a total of 607 employees live in the USA and less than only 50 employees live in each respective country.
+- The average salary a person makes yearly in Malaysia was recorded at $40,000.
+- A senior data analyst in the USA makes an average $163,680 yearly compared to entry level at $88,830.
+
+### Dashboard
+click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/viz/JobSalariesDashboard/Dashboard1?publish=yes) to view dashboard in Tableau Public
+
+![Dashboard 1 (2)](https://user-images.githubusercontent.com/111835474/218434476-052a0391-0535-4f33-94d8-1b240df266fb.png)
+
+
+
+
 
 
 
