@@ -44,7 +44,7 @@ click [here](https://public.tableau.com/authoring/Customersalesanalysis_16722077
 
 ![Dashboard 1](https://user-images.githubusercontent.com/111835474/209771027-e78c7fdc-1fc2-4236-b5d3-a684a818279d.png)
 
-# 2. Video games sales
+# 3. Video games sales
 
 ### About dataset
 Dataset was taken from Kaggle. You can get the raw csv file from [here](). This data has 16599 records of 11 columns. Missing values were found in 2 columns. They were imputed by replacing them with the value of the highest mode in each affected column. No duplicate values were found in this dataset.
@@ -64,5 +64,30 @@ Dataset was taken from Kaggle. You can get the raw csv file from [here](). This 
 click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/viz/Videogamesdashboard_16726514157620/Dashboard1?publish=yes) to view dashboard in Tableau Public
 
 ![Dashboard 1 (1)](https://user-images.githubusercontent.com/111835474/210242991-13eafb96-256f-465d-bc4a-ae4bca7620db.png)
+
+# 4. Netflix show analysis
+
+### About dataset
+Dataset was taken from Kaggle. You can get the raw csv file from [here](). This data has 6234 records of 12 columns.
+
+### Objectives
+1. What is the total number of movies & total tv shows by year?
+2. What is the total number of movies & tv shows combined by each country?
+3. what are the top 10 genres movies filmed?
+4. What is the distribution and percentages of movies and tv shows?
+5. What is the total number of movies and tv shows combined by rating?
+
+### Key takeaways:pushpin:
+
+- Year 2019 was the all time highest of number of movies and tv shows released. There were 1546 and 803 movies and tv shows released respectively.
+- 299 movies and tv shows combined were listed in the documentaries genre followed by stand-up comedy genre at 273 movies and tv shows.
+- 4265 movies were released compared to a relatively low number of 1969 tv shows released.
+- TV_MA rating has the highest number of movies associated followed by TV-14 and TV-pg with 1698 and 701 respectively.
+
+### Dashboard
+click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/viz/Netflixdashboard_16762616709070/Dashboard1?publish=yes) to view dashboard in Tableau Public
+
+![netflix Dashboard](https://user-images.githubusercontent.com/111835474/218372772-2bad6be4-9ef8-458b-b9eb-1da7ceed3758.png)
+
 
 
