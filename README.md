@@ -114,12 +114,19 @@ click [here](https://public.tableau.com/app/profile/muhammad.amin.bin.basiran/vi
 # 6. IBM HR analysis
 
 ### Brief:closed_book:
-Dataset was taken from Kaggle.
+Dataset was taken from Kaggle. This dataset contains information on employees working at a fictional US-based company. The dataset includes 1470 rows and 35 columns, with each row representing an individual employee. The columns provide information on the employee's age, gender, job role, department, education level, job satisfaction, work-life balance, years at the company, and other relevant factors. The dataset also includes a binary target variable indicating whether the employee has left the company (attrition) or is still employed. The data can be used to explore factors that contribute to employee attrition and to develop predictive models to identify employees at risk of leaving.
 
 ### Objectives
+1. To find the total number of employees by their relevant factors.
+2. To find the average monthly income of the employees.
 
 
 ### Key takeaways:pushpin:
+- A male who works as a manager makes an average of $17,409. Unlike male, female makes less that comes to an average of $16,915.
+- A manager in HR dept makes an average $18,089, which is slighty higher than any manager working in the sales and R&D dept.
+- Monthly income tends to be higher for employees with more experience
+- The distribution of monthly income is skewed towards the lower end
+- The company consists of 60% male while the remaining 40% is female.
 
 
 ### Dashboard
